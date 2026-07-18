@@ -5,13 +5,13 @@
 
 <!-- 🎨 Banner dinâmico -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Douglas%20Souza%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Security%20Enthusiast&descSize=20&descAlignY=75" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Douglas%20Souza%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Networking%20%E2%80%A2%20Security&descSize=20&descAlignY=75" alt="banner"/>
 </p>
 
 <!-- ⌨️ Efeito de digitação -->
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+PHP+%7C+Python+%7C+JavaScript;Security+Enthusiast;Secure+by+Design." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+PHP+%7C+Python+%7C+JavaScript;Networking+%40+Telecom+ISP;Security+Enthusiast;Secure+by+Design." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -27,10 +27,11 @@
 
 ## 🚀 About Me
 
-I build **backend systems and web applications** with a strong focus on **security across the SDLC**.
+I build **backend systems and web applications** with a strong focus on **security across the SDLC**, and I work at an **internet telecom (ISP)** with hands-on networking experience.
 
 - 💻 Developing backend systems with Java, PHP and Python
 - 🌐 Building web applications with JavaScript
+- 📡 Working at a telecom ISP — networking, connectivity and infrastructure
 - 🗄 Designing and optimizing SQL databases
 - 🔐 Applying secure coding practices (OWASP, prepared statements, input validation)
 - 🐳 Containerizing applications with Docker
@@ -58,6 +59,18 @@ I build **backend systems and web applications** with a strong focus on **securi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+### Networking
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-2c5364?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS%20%2F%20DHCP-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-0f2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLANs-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTTH%20%2F%20GPON-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH%20%2F%20OpenSSH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -76,15 +89,12 @@ I build **backend systems and web applications** with a strong focus on **securi
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </p>
 
-<!-- 📈 Gráfico de atividade -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<!-- 🐍 Snake animation (requer workflow — snake.yml) -->
+<!-- 🐍 Snake animation: descomente este bloco DEPOIS de configurar o
+     workflow snake.yml e executá-lo ao menos uma vez (aba Actions).
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+-->
 
 ---
 
@@ -102,6 +112,7 @@ I build **backend systems and web applications** with a strong focus on **securi
 ## 🎯 Current Focus
 
 - 💻 Backend Development (Java / PHP / Python)
+- 📡 Computer Networks & ISP Infrastructure
 - 🔐 Application Security & Secure SDLC
 - 🐳 Docker & Linux
 - 🏗 Software Architecture & Design Patterns
