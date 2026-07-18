@@ -15,14 +15,6 @@
   </a>
 </p>
 
-<!-- 👁 Contador de visitantes + seguidores -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2c5364" alt="profile views"/>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=203a43" alt="followers"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -72,22 +64,6 @@ I build **backend systems and web applications** with a strong focus on **securi
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- 🏆 Troféus -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</p>
 
 <!-- 🐍 Snake animation: descomente este bloco DEPOIS de configurar o
      workflow snake.yml e executá-lo ao menos uma vez (aba Actions).
