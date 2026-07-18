@@ -112,7 +112,7 @@ I build **backend systems, web and mobile applications** with a strong focus on 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/douglas-souza-59622a199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://YOUR_WEBSITE">
