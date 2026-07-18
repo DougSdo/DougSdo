@@ -11,7 +11,7 @@
 <!-- ⌨️ Efeito de digitação -->
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+PHP+%7C+Python+%7C+JavaScript;Networking+%40+Telecom+ISP;Security+Enthusiast;Secure+by+Design." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+PHP+%7C+Python+%7C+JavaScript;Mobile+Apps+with+React+Native;End-to-End+Project+Development;Networking+%40+Telecom+ISP;Security+Enthusiast;Secure+by+Design." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -19,10 +19,12 @@
 
 ## 🚀 About Me
 
-I build **backend systems and web applications** with a strong focus on **security across the SDLC**, and I work at an **internet telecom (ISP)** with hands-on networking experience.
+I build **backend systems, web and mobile applications** with a strong focus on **security across the SDLC**, and I work at an **internet telecom (ISP)** with hands-on networking experience. I structure projects **end to end** — from architecture and database design to deployment.
 
 - 💻 Developing backend systems with Java, PHP and Python
 - 🌐 Building web applications with JavaScript
+- 📱 Creating mobile apps with React Native
+- 🧩 Structuring projects end to end — architecture, database, API, frontend and deployment
 - 📡 Working at a telecom ISP — networking, connectivity and infrastructure
 - 🗄 Designing and optimizing SQL databases
 - 🔐 Applying secure coding practices (OWASP, prepared statements, input validation)
@@ -43,6 +45,13 @@ I build **backend systems and web applications** with a strong focus on **securi
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
@@ -81,6 +90,7 @@ I build **backend systems and web applications** with a strong focus on **securi
 | Project | Description |
 |---------|-------------|
 | 🔐 **Secure PHP Backend** | REST API with PDO prepared statements, input validation and security best practices |
+| 📱 **React Native App** | Full mobile app — from project structure and API integration to release build |
 | ☕ **Java Design Patterns** | Implementations of GoF patterns (Strategy, Singleton, Observer) |
 | 🐳 **Dockerized Environment** | Development environment with Docker Compose (PHP + MySQL + Nginx) |
 | 🐍 **Python Automation** | Scripts for automation and data processing |
@@ -90,6 +100,8 @@ I build **backend systems and web applications** with a strong focus on **securi
 ## 🎯 Current Focus
 
 - 💻 Backend Development (Java / PHP / Python)
+- 📱 Mobile Development with React Native
+- 🧩 End-to-End Project Architecture
 - 📡 Computer Networks & ISP Infrastructure
 - 🔐 Application Security & Secure SDLC
 - 🐳 Docker & Linux
